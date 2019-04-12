@@ -1,23 +1,18 @@
-# WhatsAppScript
-Automate Whatsapp
+# WhatsAppScript Automated
 
 ## Requirements
 
 + Python 3.x
 + python-pip
-+ virtualenv
 + selenium
-+ Mozilla Firefox or Google Chrome
 
-## Setup
+## Setting up the Project
 
-1. Clone the app ``` git clone https://github.com/Bhola-B2C/WhatsAppScript.git ```
+1. Clone the app ``` git clone https://github.com/rohitsh16/WhatsAppPyScript.git ```
 2. ```mkdir project && cd project```
 3. ```virtualenv .```
 4. ```source bin/activate```
 5. ```pip install selenium```
-6. Download the webdriver (for chrome: chromedriver and for firefox: geckodriver)
-7. Change the path accordingly in the whatsapp.py
 
 ## Usage
 
